@@ -1,0 +1,9 @@
+user_id,name,email,role,zip,lat,lng,joined_at,rating,total_walks
+W0001,Amara Stevens,amara.stevens@pawsiq.com,walker,07104,40.7587,-74.1624,2023-01-01T00:00:00,4.4,908
+W0002,Devon Park,devon.park@pawsiq.com,walker,07042,40.8098,-74.2026,2023-01-01T00:00:00,4.6,1287
+W0003,Cleo Mitchell,cleo.mitchell@pawsiq.com,walker,07201,40.6634,-74.2107,2023-01-01T00:00:00,4.6,1311
+W0004,Jordan Rivera,jordan.rivera@pawsiq.com,walker,07079,40.7565,-74.2654,2023-01-01T00:00:00,4.8,882
+W0005,Priya Okafor,priya.okafor@pawsiq.com,walker,07042,40.8098,-74.2026,2023-01-01T00:00:00,4.8,1339
+W0006,Chris Laurent,chris.laurent@pawsiq.com,walker,07042,40.8098,-74.2026,2023-01-01T00:00:00,4.4,1315
+W0007,Natalie Diaz,natalie.diaz@pawsiq.com,walker,07201,40.6634,-74.2107,2023-01-01T00:00:00,4.8,1274
+W0008,Marcus Chen,marcus.chen@pawsiq.com,walker,07052,40.8051,-74.2543,2023-01-01T00:00:00,4.9,963

@@ -1,11 +1,9 @@
 # Generated data — never commit these
 data/synthetic/
 data/processed/
-ml/artifacts/
 
 # Python
 __pycache__/
-*.pkl
 *.pyc
 .env
 
