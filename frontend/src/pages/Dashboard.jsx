@@ -614,7 +614,7 @@ export default function Dashboard() {
               <LivePredictor apiOnline={apiOnline}/>
             </Card>
             <Card>
-              <SectionLabel>🔌 API Endpoints</SectionLabel>
+              <SectionLabel> API Endpoints</SectionLabel>
               {[["POST","/predict/demand","Demand forecast",B.iceDark,B.iceL],
                 ["POST","/predict/price","Surge + price",B.red,B.redL],
                 ["POST","/predict/demand/heatmap","Week heatmap",B.iceDark,B.iceL],
