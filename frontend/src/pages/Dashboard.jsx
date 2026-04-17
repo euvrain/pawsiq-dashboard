@@ -20,7 +20,7 @@ const B = {
   grayL:   "#EEEEEE",
 };
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://pawsiq-api-production.up.railway.app";
 const api = {
   demandHeatmap:   (m,y) => fetch(`${API_BASE}/predict/demand/heatmap?month=${m}&year=${y}`).then(r=>r.json()),
   pricingSchedule: (m)   => fetch(`${API_BASE}/predict/price/schedule?month=${m}`).then(r=>r.json()),
